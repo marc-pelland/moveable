@@ -79,7 +79,7 @@
   "dependencies": {
     "@daybrush/drag": "^0.13.1",
     "@daybrush/utils": "^0.10.1",
-    "@egjs/agent": "^2.1.5",
+    "@egjs/agent": "git://github.com/marc-pelland/egjs-agent",
     "@egjs/children-differ": "^1.0.0",
     "@moveable/matrix": "^0.3.1",
     "@scena/dragscroll": "^0.2.1",
