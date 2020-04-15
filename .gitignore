@@ -2,9 +2,9 @@ node_modules/
 *.DS_Store
 .DS_Store
 doc/
-dist/
+# dist/
 demo/dist/
-packages/*/dist/
+# packages/*/dist/
 release/
 npm-debug.log*
 coverage/
